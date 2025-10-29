@@ -125,9 +125,9 @@
     <string name="Offline">"Jashtë linje"</string>
     <string name="Achievement_Earned">"arritje e fituara"</string>
     <string name="REFRESH">"Rifreskoj"</string>
-    <string name="DONE">"DONE"</string>
+    <string name="DONE">"KRYER"</string>
     <string name="Friend_Request_Sent">"Kërkesa dërguar mik"</string>
-    <string name="ERROR">"ERROR"</string>
+    <string name="ERROR">"GABIM"</string>
     <string name="CONTINUE">"VAZHDOJ"</string>
     <string name="Global_" formatted="false">"globalisht"</string>
     <string name="FRIEND_CHAT">"miq Chat"</string>
@@ -138,8 +138,8 @@
     <string name="ALL">"të gjithë"</string>
     <string name="FFA">"FFA"</string>
     <string name="FFA_TIME">"koha FFA"</string>
-    <string name="TEAMS">"TEAMS"</string>
-    <string name="TEAMS_TIME">"koha TEAMS"</string>
+    <string name="TEAMS">"EKIP"</string>
+    <string name="TEAMS_TIME">"koha ekip"</string>
     <string name="CTF">"CTF"</string>
     <string name="SURVIVAL">"MBIJETESA"</string>
 
@@ -395,7 +395,7 @@
     <string name="leaves_">"lë."</string>
     <string name="Leaf_Collector">"Leaf Collector"</string>
     <string name="Collect_1000_leaves_">"Mblidhni 1000 gjethet."</string>
-    <string name="XP_Boost">"XP Boost"</string>
+    <string name="XP_Boost">"XP rritja"</string>
     <string name="Double">"dyfishtë"</string>
     <string name="Hour">"orë"</string>
     <string name="Hours">"orë"</string>
@@ -540,7 +540,7 @@
     <string name="TEAM_INVITE">"TEAM Fto"</string>
     <string name="Team_Size">"Ekipi Size"</string>
     <string name="Team_Name">"Ekipi Emri"</string>
-    <string name="CREATE_TEAM">"CREATE TEAM"</string>
+    <string name="CREATE_TEAM">"CREATE EKIP"</string>
     <string name="Solo">"solo"</string>
     <string name="Teams">"ekipet"</string>
     <string name="Team">"ekip"</string>
@@ -627,7 +627,7 @@
     <string name="Love_Nebulous_">"A e doni mjegullt?"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"Ju lutemi të mbështetur mjegullt nga rating atë"</string>
     <string name="MAYHEM_MODE">"MAYHEM MODE"</string>
-    <string name="Times_Teleported_">"Times teleported:"</string>
+    <string name="Times_Teleported_">"herë të teleportuara:"</string>
     <string name="Powerups_Used_">"Powerups të përdorura:"</string>
     <string name="Power_Hungry">"pushtet të uritur"</string>
     <string name="Over_9000">"mbi 9000"</string>
@@ -940,8 +940,8 @@
     <string name="FREE_TODAY">FREE TODAY!</string>
     <string name="Cannot_cancel_this_skin_yet_">Cannot cancel this skin yet.</string>
     <string name="SPLIT_16X">SPLIT 16x</string>
-    <string name="SET_PUBLIC_DESCRIPTION">SET PUBLIC DESCRIPTION</string>
-    <string name="SET_NOTE">SET NOTE</string>
+    <string name="SET_PUBLIC_DESCRIPTION">VENDOS PËRSHKRIMIN PUBLIK</string>
+    <string name="SET_NOTE">VENDOS NOTE</string>
     <string name="enable_notifications">Enable Notifications</string>
     <string name="PROMOTE_MEMBER">PROMOTE MEMBER</string>
     <string name="DEMOTE_MEMBER">DEMOTE MEMBER</string>
@@ -969,7 +969,7 @@
     <string name="GAME">GAME</string>
     <string name="Saved_">Saved!</string>
     <string name="Name_Opacity_">Name Opacity:</string>
-    <string name="SET_PROFILE_PIC">SET PROFILE PIC</string>
+    <string name="SET_PROFILE_PIC">VENDOS FOTOGRAFINË E PROFILIT</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">ACCEPT ALL FRIEND INVITATIONS!</string>
     <string name="App_Perf_Stats">App Performance Stats</string>
     <string name="COPY">COPY</string>
@@ -1111,7 +1111,7 @@
     <string name="ASTEROIDS">ASTEROIDS</string>
     <string name="CHRISTMAS">CHRISTMAS</string>
     <string name="Reason">Reason</string>
-    <string name="PUBLIC">PUBLIC</string>
+    <string name="PUBLIC">PUBLIK</string>
     <string name="PRIVATE">PRIVATE</string>
     <string name="Joined">Joined</string>
     <string name="Requests">Requests</string>
